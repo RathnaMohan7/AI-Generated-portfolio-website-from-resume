@@ -22,8 +22,6 @@ An AI-powered application that generates a complete portfolio website
 pip install -r requirements.txt
 streamlit run app.py
 
-## Demo video
-https://github.com/user-attachments/assets/556d88d8-0abc-4bca-94b3-4227ac2c867d
 
 
 
